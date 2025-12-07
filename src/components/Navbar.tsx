@@ -22,7 +22,7 @@ const Navbar = () => {
           Documentation
         </Link>
         <a
-          href="https://github.com/yourusername/darwin"
+          href="https://github.com/andreamicheli/Darwin"
           target="_blank"
           rel="noopener noreferrer"
           className="opacity-60 hover:opacity-100 transition-opacity"
